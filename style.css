@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    font-size: 18px;
+    font-family: monospace;
+    line-height: 30px;
+}
+
+.image {
+    height: 300px;
+    width: auto;
+}
+
+ul {
+    line-height: 60px;
+}
+
+h1 {
+    text-align: center;
+}
+
